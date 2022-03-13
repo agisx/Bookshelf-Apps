@@ -77,7 +77,7 @@ function RenderBookList(bookData) {
 
     //create isi item
     let bookItem = document.createElement("article");
-    bookItem.classList.add("book_item");
+    bookItem.classList.add("book_item", "select_item");
     bookItem.innerHTML = "<h3 name = " + id + ">" + title + "</h3>";
     bookItem.innerHTML += "<p>Penulis: " + author + "</p>";
     bookItem.innerHTML += "<p>Tahun: " + year + "</p>";
