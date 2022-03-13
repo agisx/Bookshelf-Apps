@@ -8,15 +8,13 @@ Submission Dicoding Course - Belajar Membuat Front End Web untuk Pemula. Dibangu
   <li>Buka file index.html di browser kesayangan anda</li>
   <li>Fitur</li> 
   <ol type="a">
-    <li>Insert</li> 
+    <li><a href="#insert">Insert</li> 
     <li>Update status</li> 
     <li>Read all</li> 
     <li>Update</li> 
     <li>Search</li> 
     <li>Delete</li> 
   </ol> 
-  <li></li>
-  <li></li>
 </ol>
 
 # Fitur
