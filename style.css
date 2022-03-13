@@ -68,8 +68,6 @@ main {
     border-radius: 5px;
 }
 
-
-
 .input_section > form > .input > label {
     color: cornflowerblue;
     font-weight: bold;
@@ -170,3 +168,8 @@ main {
     background-color: darkred;
     color: white;
 }
+
+.select_item:hover{
+    background-color: cornflowerblue;
+    color: aliceblue;
+} 
